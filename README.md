@@ -1,7 +1,7 @@
-# K4 Day 13 — Nguyễn Đăng Tuấn Huy
+# K4 Day 13 — Chu Thái Hòa
 
-- **Họ và tên:** Nguyễn Đăng Tuấn Huy
-- **MSSV:** 2A202602076
+- **Họ và tên:** Chu Thái Hòa
+- **MSSV:** 2A202602083
 - **Nhóm:** K4-DAY13-VuiVe
 
 ## Báo cáo nhóm
